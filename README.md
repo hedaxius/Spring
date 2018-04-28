@@ -5,4 +5,4 @@
 
 ### Spring Boot
 
-![使用Maven创建SpringBoot项目](Spring%20Boot/BuildAProjectQuickly.md)
+[使用Maven创建SpringBoot项目](Spring%20Boot/BuildAProjectQuickly.md)
